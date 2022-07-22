@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("分支添加");
         System.out.println("测试数据");
         System.out.println("git冲突");
+        System.out.println("测试push");
     }
 }
