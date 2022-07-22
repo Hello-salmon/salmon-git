@@ -1,0 +1,11 @@
+package com.salmon;
+
+/**
+ * @author caogs
+ * @create 2022-07-22 08:16
+ */
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("测试数据");
+    }
+}
