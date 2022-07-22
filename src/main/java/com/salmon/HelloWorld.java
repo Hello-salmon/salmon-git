@@ -8,5 +8,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("分支添加");
         System.out.println("测试数据");
+        System.out.println("git冲突");
     }
 }
